@@ -5,6 +5,8 @@ metadata:
                                     # dump is a filter:
                                     # https://backstage.io/docs/features/software-templates/builtin-actions/
                                     # https://backstage.io/docs/features/software-templates/writing-templates/#built-in-filters
+  annotations:
+    github.com/project-slug: maarten-dev-hub-training-organization/import-demo-app-2 # <organization_name>/<project_name>
 spec:
   type: service
   lifecycle: experimental
